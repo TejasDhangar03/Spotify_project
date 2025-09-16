@@ -1,5 +1,5 @@
 // console.log("script.js loaded");
-let host = "http://spotify-project-7f8n.onrender.com/public/"
+let host = "https://spotify-project-7f8n.onrender.com/public/"
 let currentSong = new Audio();
 let songs;
 let currFolder;
