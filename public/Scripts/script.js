@@ -1,5 +1,5 @@
 // console.log("script.js loaded");
-let host = "https://spotify-project-7f8n.onrender.com/public/"
+let host = "http://192.168.1.36:3000/public/"
 let currentSong = new Audio();
 let songs;
 let currFolder;
@@ -29,7 +29,6 @@ async function getSongs(folder) {
 
     console.log(songs)
 
-
     let songUL = document.querySelector(".songsList").getElementsByTagName("ol")[0];
     songUL.innerHTML = "";
 
@@ -55,8 +54,6 @@ async function getSongs(folder) {
 
             </li>
         `;
-
-
     }
     //adding or attaching event listeners to each songs form list
     Array.from(document.querySelector(".songsList").getElementsByTagName("li")).forEach((e) => {
@@ -69,9 +66,6 @@ async function getSongs(folder) {
     globalSongList = songs;
 
 }
-
-//dispplay dynamic albums
-
 
 // Function to play a song given its track name
 // The track name should match the file name of the song
@@ -100,6 +94,7 @@ const secToMin = (seconds) => {
     return min + ":" + (sec < 10 ? "0" + sec : sec);
 }
 
+//dispplay dynamic albums
 async function displayAlbums() {
     let b = await fetch(`${host}songs/`);
     console.log(`${host}songs/`)
@@ -141,12 +136,12 @@ async function displayAlbums() {
             songs = await getSongs(`songs/${item.currentTarget.dataset.folder}`)
         })
     })
-
 }
+
 async function main() {
 
     // Fetch the songs and log them to the console
-    await getSongs("/songs/bolly");
+    await getSongs("/songs/Lofi");
 
     //loading song 1 in list
     playMusic(songs[0], true)
@@ -235,6 +230,7 @@ async function main() {
             volume.value = 50
         }
     })
+
     //playing next song after finished current song
     // currentSong.addEventListener("ended", () => {
     //     let index = globalSongList.indexOf(decodeURI(decodeURI(currentSong.src.split(`${currFolder}/`)[1])))
@@ -257,6 +253,7 @@ async function main() {
             playMusic(globalSongList[currentIndex]);
             console.log("ended")
         }
+
         play.src = "./imgs/play.svg";
 
         if (val2 == true) {
@@ -265,8 +262,6 @@ async function main() {
             let index = Math.floor(Math.random() * ((globalSongList.length - 1) - 0 + 1)) + 0;
             playMusic(globalSongList[index]);
         }
-
-
     });
 
     currentSong.addEventListener("playing", () => {
@@ -303,14 +298,29 @@ async function main() {
             window.location.href = "login.html";
         }
     });
+
     createplaylist.addEventListener("click", async (e) => {
         if (confirm("Are you sure you want to Create PLaylist?")) {
             window.location.href = "/createPlaylist";
         }
+        //     if (confirm("Are you sure you want to Create PLaylist?")) {
+        //         const d = await fetch("/createPLaylist", {
+        //             method: "GET",
+        //             headers: {
+        //                 "authorization": "Bearer " + localStorage.getItem('token')
+        //             }
+        //         })
+
+        //         if (d.status==200) {
+        //             alert("Playlist Created")
+        //             window.location.href = "/protected"
+        //         } else {
+        //             alert("Invalid token Error!!!")
+        //         }
+        //     }
     })
-
-
-
-
 }
+
 main()
+
+

@@ -1,12 +1,10 @@
 import express from "express";
 import path from "path"
-import bodyParser from 'body-parser';
 
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
 
 import User from '../models/users.js';
-import db from '../database/db.js'
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -35,6 +33,5 @@ router.post("/", async (req, res) => {
 })
 
 const signup = router
+
 export default signup;
-
-

@@ -13,9 +13,6 @@ document.getElementById("playlist").addEventListener("submit", async (e) => {
         alert("All fields are required: name, description, cover page, and at least one song!");
     }
     else {
-
-
-
         const data = new FormData(e.target)
 
         const res = await fetch("/protected", {
@@ -28,12 +25,13 @@ document.getElementById("playlist").addEventListener("submit", async (e) => {
 
         const r = await res.json()
         console.log(r)
+
         if (res.status != 401) {
             alert("Playlist Created")
             window.location.href = "/te"
-        } else {
+        } 
+        else {
             alert("Invalid Error!!!")
         }
     }
-
 })

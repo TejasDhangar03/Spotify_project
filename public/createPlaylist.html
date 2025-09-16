@@ -4,39 +4,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sign Up</title>
-    <link rel="stylesheet" href="./styles/utility.css" >
+    <title>Create Playlist</title>
+    <link rel="shortcut icon" href="/imgs/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="./styles/utility.css">
     <link rel="stylesheet" href="./styles/createPlaylist.css">
 </head>
+
 <body>
     <form id="playlist">
-    <div class="upload">
-        <div class="header" style="display: flex;justify-content: center;">
-            <img class="invert" src="./imgs/logo.svg" alt="Spotify">&nbsp;&nbsp;&nbsp;
-            <h1 style="color: white; text-align: center;">Playlist</h1>
+        <div class="upload">
+            <div class="header" style="display: flex;justify-content: center;">
+                <img class="invert" src="./imgs/logo.svg" alt="Spotify">&nbsp;&nbsp;&nbsp;
+                <h1 style="color: white; text-align: center;">Playlist</h1>
+            </div>
+            <div class="playlistName entry">
+                <label for="playlistName">Enter Playlist Name</label>
+                <input type="text" name="playlistName" id="playlistName">
+            </div>
+            <div class="playlistName entry">
+                <label for="dec">Enter Playlist Description</label>
+                <input type="text" name="dec" id="dec">
+            </div>
+            <div class="entry">
+                <label for="CoverPage">Select Coverpage</label>
+                <input type="file" name="CoverPage" id="CoverPage" accept="image/*">
+            </div>
+            <div class="entry">
+                <label for="Songs">Select Songs</label>
+                <input type="file" name="Songs" id="Songs" accept="audio/*" multiple>
+            </div>
+            <div style="display: flex; justify-content: center; align-items: center;">
+                <button id="homee">Home</button>
+                <button type="submit" value="Create" id="Create">Create</button>
+            </div>
+
         </div>
-        <div class="playlistName entry">
-            <label for="playlistName">Enter Playlist Name</label>
-            <input type="text" name="playlistName" id="playlistName">
-        </div>
-         <div class="playlistName entry">
-            <label for="dec">Enter Playlist Name</label>
-            <input type="text" name="dec" id="dec"> 
-        </div>
-        <div class="entry">
-            <label for="CoverPage">Select Coverpage</label>
-            <input type="file" name="CoverPage" id="CoverPage" accept="image/*">
-        </div>
-         <div class="entry">
-            <label for="Songs">Select Songs</label>
-            <input type="file" name="Songs" id="Songs" accept="audio/*" multiple>
-        </div>
-        <div style="display: flex; justify-content: center; align-items: center;">
-            <button id="homee">Home</button>
-            <button type="submit" value="Create" id="Create">Create</button>
-        </div>
-    
-    </div>
     </form>
     <script src="./Scripts/createPLaylist.js"></script>
 </body>
