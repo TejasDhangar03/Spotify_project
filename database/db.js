@@ -5,9 +5,10 @@ import logging from "../server_logs/logs.js";
 
 dotenv.config();
 
-const mongo_url = process.env.MONGO_URL;
+const mongo_url = process.env.MONGO_URL
 
-await mongoose.connect(mongo_url)
+mongoose.connect(mongo_url)
+
 
 const db = mongoose.connection;
 

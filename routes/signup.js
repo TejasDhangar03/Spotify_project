@@ -5,6 +5,7 @@ import { fileURLToPath } from 'url';
 import { dirname } from 'path';
 
 import User from '../models/users.js';
+import db from '../database/db.js'
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -18,7 +19,8 @@ router.get("/", (req, res) => {
 
 router.post("/", async (req, res) => {
     const data = req.body;
-    console.log(data);
+    
+    // console.log(data);
 
     try {
         const newUser = new User(data);
