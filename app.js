@@ -86,7 +86,7 @@ function auth(req, res, next) {
 
 app.use(express.static('public'));
 app.set('view engine', 'ejs')
-app.use("/public", express.static(path.joigitn(__dirname + "/song_db")));
+app.use("/public", express.static(path.join(__dirname + "/song_db")));
 app.use("/public", serveIndex(path.join(__dirname + "/song_db"), { "icons": true }));
 
 
