@@ -5,6 +5,7 @@ import bodyParser from 'body-parser';
 import dotenv from 'dotenv';
 import jwt1 from 'jsonwebtoken';
 import multer from "multer"
+import cors from "cors";
 
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
@@ -17,6 +18,7 @@ import playlistCreate from './playlistCreator.js';
 
 
 dotenv.config();
+
 
 const JWT_SECRET = process.env.JWT_SECRET;
 
@@ -52,12 +54,7 @@ app.use(logs);
 app.use(bodyParser.json());
 app.use(express.json());
 
-app.use((req, res, next) => {
-    res.header("Access-Control-Allow-Origin", "*"); // allow all
-    res.header("Access-Control-Allow-Methods", "GET,POST,PUT,DELETE");
-    res.header("Access-Control-Allow-Headers", "Content-Type,Authorization");
-    next();
-});
+app.use(cors());
 
 function auth(req, res, next) {
     const token = req.headers['authorization'];
