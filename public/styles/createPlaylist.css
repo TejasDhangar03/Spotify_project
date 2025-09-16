@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+.upload {
+    width: 59vh;
+    background-color: rgb(18, 18, 18);
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.login:hover {
+    border: 2px solid gray;
+    transition: border 0.5s;
+}
+
+input {
+    color: black;
+    background-color: rgb(224, 224, 224);
+}
+
+label {
+    color: white;
+}
+
+button {
+    background-color: gray;
+    background-color: rgb(81, 81, 81);
+    border: none;
+    width: 100px;
+    padding: 5px;
+    margin: auto;
+}
+
+button:hover {
+    font-size: 17px;
+    color: white;
+    background-color: rgb(44, 44, 44);
+    transition: all 0.5s;
+}
+
+.entry {
+    display: flex;
+    gap: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

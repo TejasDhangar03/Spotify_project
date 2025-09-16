@@ -1,0 +1,868 @@
+9/16/2025, 12:37:27 AM Connected to database
+9/16/2025, 12:37:31 AM Connected to database
+9/16/2025, 12:37:54 AM Connected to database
+9/16/2025, 12:38:00 AM Connected to database
+9/16/2025, 12:38:09 AM Connected to database
+9/16/2025, 12:38:12 AM Connected to database
+9/16/2025, 12:38:16 AM Connected to database
+9/16/2025, 12:38:24 AM  GET  /login.html
+9/16/2025, 12:38:24 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 12:38:24 AM  GET  /styles/login.css
+9/16/2025, 12:38:24 AM  GET  /styles/utility.css
+9/16/2025, 12:38:24 AM  GET  /imgs/logo.svg
+9/16/2025, 12:38:24 AM  GET  /Scripts/login.js
+9/16/2025, 12:38:31 AM  OPTIONS  /login
+9/16/2025, 12:38:31 AM  POST  /login
+9/16/2025, 12:38:33 AM  GET  /te
+9/16/2025, 12:38:33 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 12:38:33 AM  GET  /Styles/style.css
+9/16/2025, 12:38:33 AM  GET  /Styles/utility.css
+9/16/2025, 12:38:33 AM  GET  /imgs/close.svg
+9/16/2025, 12:38:33 AM  GET  /imgs/home.svg
+9/16/2025, 12:38:33 AM  GET  /imgs/logo.svg
+9/16/2025, 12:38:33 AM  GET  /imgs/search.svg
+9/16/2025, 12:38:33 AM  GET  /imgs/ham.svg
+9/16/2025, 12:38:33 AM  GET  /imgs/playlist.svg
+9/16/2025, 12:38:33 AM  GET  /Scripts/script.js
+9/16/2025, 12:38:33 AM  GET  /imgs/previous.svg
+9/16/2025, 12:38:33 AM  GET  /imgs/play.svg
+9/16/2025, 12:38:33 AM  GET  /imgs/next.svg
+9/16/2025, 12:38:33 AM  GET  /imgs/vol.svg
+9/16/2025, 12:38:33 AM  GET  /imgs/suffle.svg
+9/16/2025, 12:38:33 AM  GET  /imgs/repeat.svg
+9/16/2025, 12:38:33 AM  GET  /public//songs/bolly/
+9/16/2025, 12:38:33 AM  GET  /imgs/music.svg
+9/16/2025, 12:38:33 AM  GET  /public/songs/
+9/16/2025, 12:38:33 AM  GET  /public//songs/bolly/aa%20toh%20sahi%20-%20Neha%20Kakkar.mp3
+9/16/2025, 12:38:33 AM  GET  /public/songs/bolly/info.json
+9/16/2025, 12:38:33 AM  GET  /public/songs/bolly/cover.png
+9/16/2025, 12:38:33 AM  GET  /public/songs/Rapchik/info.json
+9/16/2025, 12:38:33 AM  GET  /public/songs/Rapchik/cover.png
+9/16/2025, 12:38:33 AM  GET  /public/songs/tej/info.json
+9/16/2025, 12:38:34 AM  GET  /public/songs/tej/cover.png
+9/16/2025, 12:38:34 AM  GET  /public/songs/Tejas0000000/info.json
+9/16/2025, 12:38:34 AM  GET  /public/songs/Tejas0000000/cover.png
+9/16/2025, 12:38:39 AM  GET  /public//songs/bolly/aa%20toh%20sahi%20-%20Neha%20Kakkar.mp3
+9/16/2025, 12:38:39 AM  GET  /createPlaylist
+9/16/2025, 12:38:39 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 12:38:39 AM  GET  /styles/utility.css
+9/16/2025, 12:38:39 AM  GET  /styles/createPlaylist.css
+9/16/2025, 12:38:39 AM  GET  /imgs/logo.svg
+9/16/2025, 12:38:39 AM  GET  /Scripts/createPLaylist.js
+9/16/2025, 12:39:01 AM Connected to database
+9/16/2025, 12:39:02 AM  GET  /createPlaylist
+9/16/2025, 12:39:02 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 12:39:02 AM  GET  /styles/utility.css
+9/16/2025, 12:39:02 AM  GET  /styles/createPlaylist.css
+9/16/2025, 12:39:02 AM  GET  /imgs/logo.svg
+9/16/2025, 12:39:02 AM  GET  /Scripts/createPLaylist.js
+9/16/2025, 12:39:20 AM  POST  /protected
+9/16/2025, 12:39:28 AM  GET  /te
+9/16/2025, 12:39:28 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 12:39:28 AM  GET  /Styles/style.css
+9/16/2025, 12:39:28 AM  GET  /Styles/utility.css
+9/16/2025, 12:39:28 AM  GET  /imgs/close.svg
+9/16/2025, 12:39:28 AM  GET  /imgs/logo.svg
+9/16/2025, 12:39:28 AM  GET  /imgs/home.svg
+9/16/2025, 12:39:28 AM  GET  /imgs/search.svg
+9/16/2025, 12:39:28 AM  GET  /imgs/playlist.svg
+9/16/2025, 12:39:28 AM  GET  /Scripts/script.js
+9/16/2025, 12:39:28 AM  GET  /imgs/ham.svg
+9/16/2025, 12:39:28 AM  GET  /imgs/previous.svg
+9/16/2025, 12:39:28 AM  GET  /imgs/play.svg
+9/16/2025, 12:39:28 AM  GET  /imgs/next.svg
+9/16/2025, 12:39:28 AM  GET  /imgs/vol.svg
+9/16/2025, 12:39:28 AM  GET  /imgs/suffle.svg
+9/16/2025, 12:39:28 AM  GET  /imgs/repeat.svg
+9/16/2025, 12:39:28 AM  GET  /public//songs/bolly/
+9/16/2025, 12:39:28 AM  GET  /imgs/music.svg
+9/16/2025, 12:39:28 AM  GET  /public/songs/
+9/16/2025, 12:39:28 AM  GET  /public/songs/bolly/info.json
+9/16/2025, 12:39:28 AM  GET  /public/songs/Rapchik/info.json
+9/16/2025, 12:39:28 AM  GET  /public/songs/bolly/cover.png
+9/16/2025, 12:39:28 AM  GET  /public//songs/bolly/aa%20toh%20sahi%20-%20Neha%20Kakkar.mp3
+9/16/2025, 12:39:28 AM  GET  /public/songs/tej/info.json
+9/16/2025, 12:39:28 AM  GET  /public/songs/Rapchik/cover.png
+9/16/2025, 12:39:28 AM  GET  /public/songs/Tejas0000000/info.json
+9/16/2025, 12:39:28 AM  GET  /public/songs/tej/cover.png
+9/16/2025, 12:39:28 AM  GET  /public/songs/Tejas0000000/cover.png
+9/16/2025, 12:39:37 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 12:39:39 AM  POST  /protected
+9/16/2025, 12:41:23 AM Connected to database
+9/16/2025, 12:41:30 AM Connected to database
+9/16/2025, 12:41:33 AM Connected to database
+9/16/2025, 12:41:36 AM Connected to database
+9/16/2025, 12:41:40 AM Connected to database
+9/16/2025, 12:41:42 AM Connected to database
+9/16/2025, 12:41:43 AM Connected to database
+9/16/2025, 12:41:51 AM Connected to database
+9/16/2025, 12:41:54 AM Connected to database
+9/16/2025, 12:41:58 AM Connected to database
+9/16/2025, 12:42:00 AM Connected to database
+9/16/2025, 12:42:06 AM  GET  /te
+9/16/2025, 12:42:06 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 12:42:06 AM  GET  /Styles/style.css
+9/16/2025, 12:42:06 AM  GET  /Styles/utility.css
+9/16/2025, 12:42:06 AM  GET  /imgs/close.svg
+9/16/2025, 12:42:06 AM  GET  /imgs/home.svg
+9/16/2025, 12:42:06 AM  GET  /imgs/logo.svg
+9/16/2025, 12:42:06 AM  GET  /imgs/search.svg
+9/16/2025, 12:42:06 AM  GET  /imgs/playlist.svg
+9/16/2025, 12:42:06 AM  GET  /imgs/ham.svg
+9/16/2025, 12:42:06 AM  GET  /Scripts/script.js
+9/16/2025, 12:42:06 AM  GET  /imgs/previous.svg
+9/16/2025, 12:42:06 AM  GET  /imgs/play.svg
+9/16/2025, 12:42:06 AM  GET  /imgs/next.svg
+9/16/2025, 12:42:06 AM  GET  /imgs/vol.svg
+9/16/2025, 12:42:06 AM  GET  /imgs/suffle.svg
+9/16/2025, 12:42:06 AM  GET  /imgs/repeat.svg
+9/16/2025, 12:42:06 AM  GET  /public//songs/bolly/
+9/16/2025, 12:42:06 AM  GET  /imgs/music.svg
+9/16/2025, 12:42:06 AM  GET  /public/songs/
+9/16/2025, 12:42:06 AM  GET  /public//songs/bolly/aa%20toh%20sahi%20-%20Neha%20Kakkar.mp3
+9/16/2025, 12:42:06 AM  GET  /public/songs/bolly/info.json
+9/16/2025, 12:42:06 AM  GET  /public/songs/Rapchik/info.json
+9/16/2025, 12:42:06 AM  GET  /public/songs/bolly/cover.png
+9/16/2025, 12:42:06 AM  GET  /public/songs/tej/info.json
+9/16/2025, 12:42:06 AM  GET  /public/songs/Rapchik/cover.png
+9/16/2025, 12:42:06 AM  GET  /public/songs/Tejas0000000/info.json
+9/16/2025, 12:42:06 AM  GET  /public/songs/tej/cover.png
+9/16/2025, 12:42:06 AM  GET  /public/songs/Tejas0000000/cover.png
+9/16/2025, 12:42:07 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 12:42:12 AM  GET  /createPlaylist
+9/16/2025, 12:42:12 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 12:42:12 AM  GET  /styles/utility.css
+9/16/2025, 12:42:12 AM  GET  /styles/createPlaylist.css
+9/16/2025, 12:42:12 AM  GET  /imgs/logo.svg
+9/16/2025, 12:42:12 AM  GET  /Scripts/createPLaylist.js
+9/16/2025, 12:42:25 AM  POST  /protected
+9/16/2025, 12:42:47 AM Connected to database
+9/16/2025, 12:42:51 AM  GET  /createPlaylist
+9/16/2025, 12:42:51 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 12:42:51 AM  GET  /styles/utility.css
+9/16/2025, 12:42:51 AM  GET  /styles/createPlaylist.css
+9/16/2025, 12:42:51 AM  GET  /imgs/logo.svg
+9/16/2025, 12:42:51 AM  GET  /Scripts/createPLaylist.js
+9/16/2025, 12:43:06 AM  POST  /protected
+9/16/2025, 12:43:07 AM Connected to database
+9/16/2025, 12:43:31 AM  GET  /te
+9/16/2025, 12:43:31 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 12:43:31 AM  GET  /Styles/style.css
+9/16/2025, 12:43:31 AM  GET  /Styles/utility.css
+9/16/2025, 12:43:31 AM  GET  /imgs/close.svg
+9/16/2025, 12:43:31 AM  GET  /imgs/logo.svg
+9/16/2025, 12:43:31 AM  GET  /imgs/home.svg
+9/16/2025, 12:43:31 AM  GET  /imgs/search.svg
+9/16/2025, 12:43:31 AM  GET  /imgs/playlist.svg
+9/16/2025, 12:43:31 AM  GET  /Scripts/script.js
+9/16/2025, 12:43:31 AM  GET  /imgs/ham.svg
+9/16/2025, 12:43:31 AM  GET  /imgs/previous.svg
+9/16/2025, 12:43:31 AM  GET  /imgs/play.svg
+9/16/2025, 12:43:31 AM  GET  /imgs/next.svg
+9/16/2025, 12:43:31 AM  GET  /imgs/vol.svg
+9/16/2025, 12:43:31 AM  GET  /imgs/suffle.svg
+9/16/2025, 12:43:31 AM  GET  /imgs/repeat.svg
+9/16/2025, 12:43:31 AM  GET  /public//songs/bolly/
+9/16/2025, 12:43:31 AM  GET  /imgs/music.svg
+9/16/2025, 12:43:31 AM  GET  /public/songs/
+9/16/2025, 12:43:31 AM  GET  /public//songs/bolly/aa%20toh%20sahi%20-%20Neha%20Kakkar.mp3
+9/16/2025, 12:43:31 AM  GET  /public/songs/bolly/info.json
+9/16/2025, 12:43:31 AM  GET  /public/songs/Rapchik/info.json
+9/16/2025, 12:43:31 AM  GET  /public/songs/bolly/cover.png
+9/16/2025, 12:43:31 AM  GET  /public/songs/te/info.json
+9/16/2025, 12:43:31 AM  GET  /public/songs/Rapchik/cover.png
+9/16/2025, 12:43:31 AM  GET  /public//songs/bolly/aa%20toh%20sahi%20-%20Neha%20Kakkar.mp3
+9/16/2025, 12:43:31 AM  GET  /public/songs/te/cover.png
+9/16/2025, 12:43:31 AM  GET  /public/songs/tej/info.json
+9/16/2025, 12:43:31 AM  GET  /public/songs/Tejas0000000/info.json
+9/16/2025, 12:43:31 AM  GET  /public/songs/tej/cover.png
+9/16/2025, 12:43:31 AM  GET  /public/songs/Tejas0000000/cover.png
+9/16/2025, 12:44:33 AM Connected to database
+9/16/2025, 12:45:33 AM Connected to database
+9/16/2025, 12:45:36 AM Connected to database
+9/16/2025, 12:45:41 AM Connected to database
+9/16/2025, 12:45:47 AM Connected to database
+9/16/2025, 12:45:49 AM Connected to database
+9/16/2025, 12:46:00 AM Connected to database
+9/16/2025, 12:46:05 AM Connected to database
+9/16/2025, 12:46:14 AM Connected to database
+9/16/2025, 12:46:17 AM Connected to database
+9/16/2025, 12:46:24 AM  GET  /createPlaylist
+9/16/2025, 12:46:24 AM  GET  /styles/utility.css
+9/16/2025, 12:46:24 AM  GET  /styles/createPlaylist.css
+9/16/2025, 12:46:24 AM  GET  /imgs/logo.svg
+9/16/2025, 12:46:24 AM  GET  /Scripts/createPLaylist.js
+9/16/2025, 12:46:31 AM Connected to database
+9/16/2025, 12:46:37 AM Connected to database
+9/16/2025, 12:46:48 AM Connected to database
+9/16/2025, 12:46:57 AM Connected to database
+9/16/2025, 12:47:02 AM Connected to database
+9/16/2025, 12:47:07 AM Connected to database
+9/16/2025, 12:47:25 AM Connected to database
+9/16/2025, 12:47:30 AM Connected to database
+9/16/2025, 12:48:06 AM  GET  /te
+9/16/2025, 12:48:06 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 12:48:06 AM  GET  /Styles/style.css
+9/16/2025, 12:48:06 AM  GET  /Styles/utility.css
+9/16/2025, 12:48:06 AM  GET  /imgs/close.svg
+9/16/2025, 12:48:06 AM  GET  /imgs/logo.svg
+9/16/2025, 12:48:06 AM  GET  /imgs/home.svg
+9/16/2025, 12:48:06 AM  GET  /imgs/playlist.svg
+9/16/2025, 12:48:06 AM  GET  /Scripts/script.js
+9/16/2025, 12:48:06 AM  GET  /imgs/search.svg
+9/16/2025, 12:48:06 AM  GET  /imgs/ham.svg
+9/16/2025, 12:48:06 AM  GET  /imgs/previous.svg
+9/16/2025, 12:48:06 AM  GET  /imgs/play.svg
+9/16/2025, 12:48:06 AM  GET  /imgs/next.svg
+9/16/2025, 12:48:06 AM  GET  /imgs/vol.svg
+9/16/2025, 12:48:06 AM  GET  /imgs/suffle.svg
+9/16/2025, 12:48:06 AM  GET  /imgs/repeat.svg
+9/16/2025, 12:48:06 AM  GET  /public//songs/bolly/
+9/16/2025, 12:48:06 AM  GET  /imgs/favicon.ico
+9/16/2025, 12:48:06 AM  GET  /imgs/music.svg
+9/16/2025, 12:48:06 AM  GET  /public/songs/
+9/16/2025, 12:48:06 AM  GET  /public//songs/bolly/aa%20toh%20sahi%20-%20Neha%20Kakkar.mp3
+9/16/2025, 12:48:06 AM  GET  /public/songs/bolly/info.json
+9/16/2025, 12:48:06 AM  GET  /public/songs/bolly/cover.png
+9/16/2025, 12:48:06 AM  GET  /public/songs/Rapchik/info.json
+9/16/2025, 12:48:06 AM  GET  /public/songs/Rapchik/cover.png
+9/16/2025, 12:48:06 AM  GET  /public/songs/te/info.json
+9/16/2025, 12:48:06 AM  GET  /public/songs/te/cover.png
+9/16/2025, 12:48:06 AM  GET  /public/songs/tej/info.json
+9/16/2025, 12:48:06 AM  GET  /public/songs/tej/cover.png
+9/16/2025, 12:48:06 AM  GET  /public/songs/Tejas0000000/info.json
+9/16/2025, 12:48:06 AM  GET  /public/songs/Tejas0000000/cover.png
+9/16/2025, 12:48:11 AM  OPTIONS  /createPlaylist
+9/16/2025, 12:48:11 AM  GET  /createPlaylist
+9/16/2025, 12:49:26 AM  OPTIONS  /createPlaylist
+9/16/2025, 12:49:26 AM  GET  /createPlaylist
+9/16/2025, 12:49:47 AM Connected to database
+9/16/2025, 12:53:22 AM Connected to database
+9/16/2025, 12:53:41 AM Connected to database
+9/16/2025, 12:53:42 AM Connected to database
+9/16/2025, 12:53:45 AM  GET  /te
+9/16/2025, 12:53:45 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 12:53:45 AM  GET  /Styles/style.css
+9/16/2025, 12:53:45 AM  GET  /Styles/utility.css
+9/16/2025, 12:53:45 AM  GET  /imgs/close.svg
+9/16/2025, 12:53:45 AM  GET  /imgs/home.svg
+9/16/2025, 12:53:45 AM  GET  /imgs/logo.svg
+9/16/2025, 12:53:45 AM  GET  /imgs/playlist.svg
+9/16/2025, 12:53:45 AM  GET  /imgs/search.svg
+9/16/2025, 12:53:45 AM  GET  /Scripts/script.js
+9/16/2025, 12:53:45 AM  GET  /imgs/ham.svg
+9/16/2025, 12:53:45 AM  GET  /imgs/previous.svg
+9/16/2025, 12:53:45 AM  GET  /imgs/play.svg
+9/16/2025, 12:53:45 AM  GET  /imgs/next.svg
+9/16/2025, 12:53:45 AM  GET  /imgs/vol.svg
+9/16/2025, 12:53:45 AM  GET  /imgs/suffle.svg
+9/16/2025, 12:53:45 AM  GET  /imgs/repeat.svg
+9/16/2025, 12:53:45 AM  GET  /public//songs/bolly/
+9/16/2025, 12:53:45 AM  GET  /imgs/favicon.ico
+9/16/2025, 12:53:45 AM  GET  /imgs/music.svg
+9/16/2025, 12:53:45 AM  GET  /public/songs/
+9/16/2025, 12:53:45 AM  GET  /public//songs/bolly/aa%20toh%20sahi%20-%20Neha%20Kakkar.mp3
+9/16/2025, 12:53:45 AM  GET  /public/songs/bolly/info.json
+9/16/2025, 12:53:45 AM  GET  /public/songs/bolly/cover.png
+9/16/2025, 12:53:45 AM  GET  /public/songs/Rapchik/info.json
+9/16/2025, 12:53:45 AM  GET  /public/songs/Rapchik/cover.png
+9/16/2025, 12:53:45 AM  GET  /public/songs/te/info.json
+9/16/2025, 12:53:45 AM  GET  /public/songs/te/cover.png
+9/16/2025, 12:53:45 AM  GET  /public/songs/tej/info.json
+9/16/2025, 12:53:45 AM  GET  /public/songs/tej/cover.png
+9/16/2025, 12:53:46 AM  GET  /public/songs/Tejas0000000/info.json
+9/16/2025, 12:53:46 AM  GET  /public/songs/Tejas0000000/cover.png
+9/16/2025, 12:53:49 AM  GET  /createPlaylist
+9/16/2025, 12:53:49 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 12:53:49 AM  GET  /styles/utility.css
+9/16/2025, 12:53:49 AM  GET  /styles/createPlaylist.css
+9/16/2025, 12:53:49 AM  GET  /imgs/logo.svg
+9/16/2025, 12:53:49 AM  GET  /Scripts/createPLaylist.js
+9/16/2025, 12:54:19 AM  POST  /protected
+9/16/2025, 12:54:20 AM Connected to database
+9/16/2025, 12:54:22 AM  GET  /te
+9/16/2025, 12:54:22 AM  GET  /Styles/style.css
+9/16/2025, 12:54:22 AM  GET  /Styles/utility.css
+9/16/2025, 12:54:22 AM  GET  /imgs/close.svg
+9/16/2025, 12:54:22 AM  GET  /imgs/logo.svg
+9/16/2025, 12:54:22 AM  GET  /imgs/home.svg
+9/16/2025, 12:54:22 AM  GET  /imgs/search.svg
+9/16/2025, 12:54:22 AM  GET  /imgs/playlist.svg
+9/16/2025, 12:54:22 AM  GET  /Scripts/script.js
+9/16/2025, 12:54:22 AM  GET  /imgs/ham.svg
+9/16/2025, 12:54:22 AM  GET  /imgs/previous.svg
+9/16/2025, 12:54:22 AM  GET  /imgs/play.svg
+9/16/2025, 12:54:22 AM  GET  /imgs/next.svg
+9/16/2025, 12:54:22 AM  GET  /imgs/vol.svg
+9/16/2025, 12:54:22 AM  GET  /imgs/suffle.svg
+9/16/2025, 12:54:22 AM  GET  /imgs/repeat.svg
+9/16/2025, 12:54:22 AM  GET  /public//songs/bolly/
+9/16/2025, 12:54:22 AM  GET  /imgs/music.svg
+9/16/2025, 12:54:22 AM  GET  /public/songs/
+9/16/2025, 12:54:22 AM  GET  /public/songs/bolly/info.json
+9/16/2025, 12:54:22 AM  GET  /public/songs/mamaMAMI/info.json
+9/16/2025, 12:54:22 AM  GET  /public/songs/bolly/cover.png
+9/16/2025, 12:54:22 AM  GET  /public//songs/bolly/aa%20toh%20sahi%20-%20Neha%20Kakkar.mp3
+9/16/2025, 12:54:22 AM  GET  /public/songs/mamaMAMI/cover.png
+9/16/2025, 12:54:22 AM  GET  /public/songs/Rapchik/info.json
+9/16/2025, 12:54:22 AM  GET  /public/songs/te/info.json
+9/16/2025, 12:54:22 AM  GET  /public/songs/Rapchik/cover.png
+9/16/2025, 12:54:22 AM  GET  /public/songs/tej/info.json
+9/16/2025, 12:54:22 AM  GET  /public/songs/te/cover.png
+9/16/2025, 12:54:22 AM  GET  /public/songs/Tejas0000000/info.json
+9/16/2025, 12:54:22 AM  GET  /public/songs/tej/cover.png
+9/16/2025, 12:54:22 AM  GET  /public/songs/Tejas0000000/cover.png
+9/16/2025, 12:54:30 AM  GET  /public/songs/mamaMAMI/
+9/16/2025, 12:54:31 AM  GET  /imgs/pause.svg
+9/16/2025, 12:54:31 AM  GET  /public/songs/mamaMAMI/Shanivaar%20-%20Arijit%20Singh.mp3
+9/16/2025, 12:54:31 AM  GET  /imgs/favicon.ico
+9/16/2025, 12:56:25 AM  GET  /te
+9/16/2025, 12:56:25 AM  GET  /Styles/style.css
+9/16/2025, 12:56:25 AM  GET  /Styles/utility.css
+9/16/2025, 12:56:25 AM  GET  /imgs/close.svg
+9/16/2025, 12:56:25 AM  GET  /imgs/logo.svg
+9/16/2025, 12:56:25 AM  GET  /imgs/home.svg
+9/16/2025, 12:56:25 AM  GET  /imgs/search.svg
+9/16/2025, 12:56:25 AM  GET  /imgs/playlist.svg
+9/16/2025, 12:56:25 AM  GET  /Scripts/script.js
+9/16/2025, 12:56:25 AM  GET  /imgs/ham.svg
+9/16/2025, 12:56:25 AM  GET  /imgs/previous.svg
+9/16/2025, 12:56:25 AM  GET  /imgs/play.svg
+9/16/2025, 12:56:25 AM  GET  /imgs/next.svg
+9/16/2025, 12:56:25 AM  GET  /imgs/vol.svg
+9/16/2025, 12:56:25 AM  GET  /imgs/suffle.svg
+9/16/2025, 12:56:25 AM  GET  /imgs/repeat.svg
+9/16/2025, 12:56:25 AM  GET  /public//songs/bolly/
+9/16/2025, 12:56:25 AM  GET  /imgs/favicon.ico
+9/16/2025, 12:56:25 AM  GET  /imgs/music.svg
+9/16/2025, 12:56:25 AM  GET  /public/songs/
+9/16/2025, 12:56:25 AM  GET  /public//songs/bolly/aa%20toh%20sahi%20-%20Neha%20Kakkar.mp3
+9/16/2025, 12:56:25 AM  GET  /public/songs/bolly/info.json
+9/16/2025, 12:56:25 AM  GET  /public/songs/bolly/cover.png
+9/16/2025, 12:56:25 AM  GET  /public/songs/mamaMAMI/info.json
+9/16/2025, 12:56:25 AM  GET  /public/songs/mamaMAMI/cover.png
+9/16/2025, 12:56:25 AM  GET  /public/songs/Rapchik/info.json
+9/16/2025, 12:56:25 AM  GET  /public/songs/Rapchik/cover.png
+9/16/2025, 12:56:25 AM  GET  /public/songs/te/info.json
+9/16/2025, 12:56:25 AM  GET  /public/songs/te/cover.png
+9/16/2025, 12:56:25 AM  GET  /public/songs/tej/info.json
+9/16/2025, 12:56:26 AM  GET  /public/songs/tej/cover.png
+9/16/2025, 12:56:26 AM  GET  /public/songs/Tejas0000000/info.json
+9/16/2025, 12:56:26 AM  GET  /public/songs/Tejas0000000/cover.png
+9/16/2025, 12:56:29 AM  GET  /createPlaylist
+9/16/2025, 12:56:29 AM  GET  /styles/utility.css
+9/16/2025, 12:56:29 AM  GET  /styles/createPlaylist.css
+9/16/2025, 12:56:29 AM  GET  /imgs/logo.svg
+9/16/2025, 12:56:29 AM  GET  /Scripts/createPLaylist.js
+9/16/2025, 12:57:08 AM  GET  /createPlaylist
+9/16/2025, 12:57:08 AM  GET  /styles/utility.css
+9/16/2025, 12:57:08 AM  GET  /styles/createPlaylist.css
+9/16/2025, 12:57:08 AM  GET  /imgs/logo.svg
+9/16/2025, 12:57:08 AM  GET  /Scripts/createPLaylist.js
+9/16/2025, 12:57:14 AM  GET  /createPlaylist
+9/16/2025, 12:57:14 AM  GET  /styles/utility.css
+9/16/2025, 12:57:14 AM  GET  /styles/createPlaylist.css
+9/16/2025, 12:57:14 AM  GET  /imgs/logo.svg
+9/16/2025, 12:57:14 AM  GET  /Scripts/createPLaylist.js
+9/16/2025, 12:58:19 AM  GET  /createPlaylist
+9/16/2025, 12:58:19 AM  GET  /styles/utility.css
+9/16/2025, 12:58:19 AM  GET  /styles/createPlaylist.css
+9/16/2025, 12:58:19 AM  GET  /imgs/logo.svg
+9/16/2025, 12:58:19 AM  GET  /Scripts/createPLaylist.js
+9/16/2025, 12:58:43 AM  GET  /login
+9/16/2025, 12:58:43 AM  GET  /styles/login.css
+9/16/2025, 12:58:43 AM  GET  /styles/utility.css
+9/16/2025, 12:58:43 AM  GET  /imgs/logo.svg
+9/16/2025, 12:58:43 AM  GET  /Scripts/login.js
+9/16/2025, 12:58:47 AM  GET  /login
+9/16/2025, 12:58:47 AM  GET  /styles/login.css
+9/16/2025, 12:58:47 AM  GET  /styles/utility.css
+9/16/2025, 12:58:47 AM  GET  /imgs/logo.svg
+9/16/2025, 12:58:47 AM  GET  /Scripts/login.js
+9/16/2025, 12:58:48 AM  GET  /login
+9/16/2025, 12:58:48 AM  GET  /styles/login.css
+9/16/2025, 12:58:48 AM  GET  /styles/utility.css
+9/16/2025, 12:58:48 AM  GET  /imgs/logo.svg
+9/16/2025, 12:58:48 AM  GET  /Scripts/login.js
+9/16/2025, 1:00:18 AM  GET  /login
+9/16/2025, 1:00:18 AM  GET  /styles/login.css
+9/16/2025, 1:00:18 AM  GET  /styles/utility.css
+9/16/2025, 1:00:18 AM  GET  /imgs/logo.svg
+9/16/2025, 1:00:18 AM  GET  /Scripts/login.js
+9/16/2025, 1:00:27 AM  GET  /signup
+9/16/2025, 1:00:27 AM  GET  /styles/utility.css
+9/16/2025, 1:00:27 AM  GET  /styles/signup.css
+9/16/2025, 1:00:27 AM  GET  /Scripts/signup.js
+9/16/2025, 1:00:27 AM  GET  /imgs/logo.svg
+9/16/2025, 1:00:39 AM  GET  /styles/utility.css
+9/16/2025, 1:00:39 AM  GET  /styles/signup.css
+9/16/2025, 1:00:39 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 1:01:19 AM  GET  /createPlaylist
+9/16/2025, 1:01:19 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 1:01:19 AM  GET  /styles/utility.css
+9/16/2025, 1:01:19 AM  GET  /styles/createPlaylist.css
+9/16/2025, 1:01:19 AM  GET  /imgs/logo.svg
+9/16/2025, 1:01:19 AM  GET  /Scripts/createPLaylist.js
+9/16/2025, 1:01:29 AM  GET  /createPlaylist
+9/16/2025, 1:01:29 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 1:01:29 AM  GET  /styles/utility.css
+9/16/2025, 1:01:29 AM  GET  /styles/createPlaylist.css
+9/16/2025, 1:01:29 AM  GET  /Scripts/createPLaylist.js
+9/16/2025, 1:01:29 AM  GET  /imgs/logo.svg
+9/16/2025, 1:01:30 AM  GET  /createPlaylist
+9/16/2025, 1:01:30 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 1:01:30 AM  GET  /styles/utility.css
+9/16/2025, 1:01:30 AM  GET  /styles/createPlaylist.css
+9/16/2025, 1:01:30 AM  GET  /imgs/logo.svg
+9/16/2025, 1:01:30 AM  GET  /Scripts/createPLaylist.js
+9/16/2025, 1:02:51 AM  GET  /createPlaylist
+9/16/2025, 1:02:51 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 1:02:51 AM  GET  /styles/utility.css
+9/16/2025, 1:02:51 AM  GET  /styles/createPlaylist.css
+9/16/2025, 1:02:51 AM  GET  /imgs/logo.svg
+9/16/2025, 1:02:51 AM  GET  /Scripts/createPLaylist.js
+9/16/2025, 1:03:05 AM  GET  /createPlaylist
+9/16/2025, 1:03:05 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 1:03:05 AM  GET  /styles/utility.css
+9/16/2025, 1:03:05 AM  GET  /styles/createPlaylist.css
+9/16/2025, 1:03:05 AM  GET  /imgs/logo.svg
+9/16/2025, 1:03:05 AM  GET  /Scripts/createPLaylist.js
+9/16/2025, 1:03:10 AM  POST  /protected
+9/16/2025, 1:03:13 AM  GET  /te
+9/16/2025, 1:03:13 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 1:03:13 AM  GET  /Styles/style.css
+9/16/2025, 1:03:13 AM  GET  /Styles/utility.css
+9/16/2025, 1:03:13 AM  GET  /imgs/close.svg
+9/16/2025, 1:03:13 AM  GET  /imgs/logo.svg
+9/16/2025, 1:03:13 AM  GET  /imgs/home.svg
+9/16/2025, 1:03:13 AM  GET  /imgs/search.svg
+9/16/2025, 1:03:13 AM  GET  /imgs/playlist.svg
+9/16/2025, 1:03:13 AM  GET  /Scripts/script.js
+9/16/2025, 1:03:13 AM  GET  /imgs/ham.svg
+9/16/2025, 1:03:13 AM  GET  /imgs/previous.svg
+9/16/2025, 1:03:13 AM  GET  /imgs/play.svg
+9/16/2025, 1:03:13 AM  GET  /imgs/next.svg
+9/16/2025, 1:03:13 AM  GET  /imgs/vol.svg
+9/16/2025, 1:03:13 AM  GET  /imgs/suffle.svg
+9/16/2025, 1:03:13 AM  GET  /imgs/repeat.svg
+9/16/2025, 1:03:13 AM  GET  /public//songs/bolly/
+9/16/2025, 1:03:13 AM  GET  /imgs/music.svg
+9/16/2025, 1:03:13 AM  GET  /public/songs/
+9/16/2025, 1:03:13 AM  GET  /public//songs/bolly/aa%20toh%20sahi%20-%20Neha%20Kakkar.mp3
+9/16/2025, 1:03:13 AM  GET  /public/songs/bolly/info.json
+9/16/2025, 1:03:13 AM  GET  /public/songs/mamaMAMI/info.json
+9/16/2025, 1:03:13 AM  GET  /public/songs/bolly/cover.png
+9/16/2025, 1:03:13 AM  GET  /public/songs/Rapchik/info.json
+9/16/2025, 1:03:13 AM  GET  /public/songs/mamaMAMI/cover.png
+9/16/2025, 1:03:13 AM  GET  /public/songs/te/info.json
+9/16/2025, 1:03:13 AM  GET  /public/songs/Rapchik/cover.png
+9/16/2025, 1:03:13 AM  GET  /public/songs/tej/info.json
+9/16/2025, 1:03:13 AM  GET  /public/songs/te/cover.png
+9/16/2025, 1:03:13 AM  GET  /public/songs/Tejas0000000/info.json
+9/16/2025, 1:03:13 AM  GET  /public/songs/tej/cover.png
+9/16/2025, 1:03:13 AM  GET  /public/songs/Tejas0000000/cover.png
+9/16/2025, 1:04:31 AM Connected to database
+9/16/2025, 1:04:32 AM Connected to database
+9/16/2025, 1:04:37 AM Connected to database
+9/16/2025, 1:04:39 AM Connected to database
+9/16/2025, 1:04:59 AM  GET  /
+9/16/2025, 1:04:59 AM  GET  /styles/style.css
+9/16/2025, 1:04:59 AM  GET  /Styles/utility.css
+9/16/2025, 1:04:59 AM  GET  /imgs/close.svg
+9/16/2025, 1:04:59 AM  GET  /imgs/logo.svg
+9/16/2025, 1:05:00 AM  GET  /imgs/home.svg
+9/16/2025, 1:05:00 AM  GET  /imgs/search.svg
+9/16/2025, 1:05:00 AM  GET  /imgs/playlist.svg
+9/16/2025, 1:05:00 AM  GET  /imgs/ham.svg
+9/16/2025, 1:05:00 AM  GET  /imgs/previous.svg
+9/16/2025, 1:05:00 AM  GET  /imgs/play.svg
+9/16/2025, 1:05:00 AM  GET  /imgs/next.svg
+9/16/2025, 1:05:00 AM  GET  /imgs/vol.svg
+9/16/2025, 1:05:00 AM  GET  /imgs/favicon.ico
+9/16/2025, 1:05:07 AM  GET  /login
+9/16/2025, 1:05:07 AM  GET  /styles/login.css
+9/16/2025, 1:05:07 AM  GET  /styles/utility.css
+9/16/2025, 1:05:07 AM  GET  /Scripts/login.js
+9/16/2025, 1:05:07 AM  GET  /imgs/logo.svg
+9/16/2025, 1:05:07 AM  GET  /favicon.ico
+9/16/2025, 1:05:22 AM  POST  /login
+9/16/2025, 1:05:24 AM  GET  /te
+9/16/2025, 1:05:24 AM  GET  /Styles/style.css
+9/16/2025, 1:05:24 AM  GET  /imgs/close.svg
+9/16/2025, 1:05:24 AM  GET  /Styles/utility.css
+9/16/2025, 1:05:24 AM  GET  /imgs/logo.svg
+9/16/2025, 1:05:24 AM  GET  /imgs/home.svg
+9/16/2025, 1:05:24 AM  GET  /imgs/search.svg
+9/16/2025, 1:05:24 AM  GET  /imgs/playlist.svg
+9/16/2025, 1:05:25 AM  GET  /Scripts/script.js
+9/16/2025, 1:05:25 AM  GET  /imgs/ham.svg
+9/16/2025, 1:05:25 AM  GET  /imgs/play.svg
+9/16/2025, 1:05:25 AM  GET  /imgs/previous.svg
+9/16/2025, 1:05:25 AM  GET  /imgs/next.svg
+9/16/2025, 1:05:25 AM  GET  /imgs/suffle.svg
+9/16/2025, 1:05:25 AM  GET  /imgs/vol.svg
+9/16/2025, 1:05:25 AM  GET  /imgs/repeat.svg
+9/16/2025, 1:05:25 AM  GET  /public//songs/bolly/
+9/16/2025, 1:05:25 AM  GET  /imgs/music.svg
+9/16/2025, 1:05:25 AM  GET  /public/songs/
+9/16/2025, 1:05:25 AM  GET  /public//songs/bolly/aa%20toh%20sahi%20-%20Neha%20Kakkar.mp3
+9/16/2025, 1:05:25 AM  GET  /public/songs/bolly/info.json
+9/16/2025, 1:05:25 AM  GET  /public/songs/mamaMAMI/info.json
+9/16/2025, 1:05:25 AM  GET  /public/songs/bolly/cover.png
+9/16/2025, 1:05:25 AM  GET  /public/songs/Rapchik/info.json
+9/16/2025, 1:05:25 AM  GET  /public/songs/mamaMAMI/cover.png
+9/16/2025, 1:05:26 AM  GET  /public/songs/te/info.json
+9/16/2025, 1:05:26 AM  GET  /public/songs/Rapchik/cover.png
+9/16/2025, 1:05:26 AM  GET  /public/songs/tej/info.json
+9/16/2025, 1:05:26 AM  GET  /public/songs/te/cover.png
+9/16/2025, 1:05:26 AM  GET  /public/songs/Tejas0000000/info.json
+9/16/2025, 1:05:26 AM  GET  /public/songs/tej/cover.png
+9/16/2025, 1:05:26 AM  GET  /public/songs/Tejas0000000/cover.png
+9/16/2025, 1:05:33 AM  GET  /createPlaylist
+9/16/2025, 1:05:33 AM  GET  /styles/createPlaylist.css
+9/16/2025, 1:05:33 AM  GET  /Scripts/createPLaylist.js
+9/16/2025, 1:05:33 AM  GET  /styles/utility.css
+9/16/2025, 1:05:33 AM  GET  /imgs/logo.svg
+9/16/2025, 1:05:41 AM  GET  /
+9/16/2025, 1:05:42 AM  POST  /protected
+9/16/2025, 1:05:42 AM  GET  /imgs/close.svg
+9/16/2025, 1:05:42 AM  GET  /imgs/logo.svg
+9/16/2025, 1:05:42 AM  GET  /styles/style.css
+9/16/2025, 1:05:42 AM  GET  /Styles/utility.css
+9/16/2025, 1:05:42 AM  GET  /imgs/previous.svg
+9/16/2025, 1:05:42 AM  GET  /imgs/next.svg
+9/16/2025, 1:05:42 AM  GET  /imgs/vol.svg
+9/16/2025, 1:05:42 AM  GET  /imgs/ham.svg
+9/16/2025, 1:05:42 AM  GET  /imgs/home.svg
+9/16/2025, 1:05:42 AM  GET  /imgs/play.svg
+9/16/2025, 1:05:42 AM  GET  /imgs/playlist.svg
+9/16/2025, 1:05:42 AM  GET  /imgs/search.svg
+9/16/2025, 1:07:08 AM Connected to database
+9/16/2025, 1:07:28 AM Connected to database
+9/16/2025, 1:07:30 AM  GET  /login
+9/16/2025, 1:07:30 AM  GET  /styles/utility.css
+9/16/2025, 1:07:30 AM  GET  /imgs/logo.svg
+9/16/2025, 1:07:30 AM  GET  /styles/login.css
+9/16/2025, 1:07:30 AM  GET  /Scripts/login.js
+9/16/2025, 1:07:39 AM  POST  /login
+9/16/2025, 1:07:40 AM  GET  /te
+9/16/2025, 1:07:40 AM  GET  /Styles/style.css
+9/16/2025, 1:07:40 AM  GET  /imgs/close.svg
+9/16/2025, 1:07:40 AM  GET  /imgs/logo.svg
+9/16/2025, 1:07:40 AM  GET  /imgs/home.svg
+9/16/2025, 1:07:40 AM  GET  /Styles/utility.css
+9/16/2025, 1:07:40 AM  GET  /imgs/search.svg
+9/16/2025, 1:07:40 AM  GET  /imgs/ham.svg
+9/16/2025, 1:07:40 AM  GET  /Scripts/script.js
+9/16/2025, 1:07:40 AM  GET  /imgs/playlist.svg
+9/16/2025, 1:07:40 AM  GET  /imgs/previous.svg
+9/16/2025, 1:07:40 AM  GET  /imgs/play.svg
+9/16/2025, 1:07:40 AM  GET  /imgs/next.svg
+9/16/2025, 1:07:40 AM  GET  /imgs/vol.svg
+9/16/2025, 1:07:40 AM  GET  /imgs/suffle.svg
+9/16/2025, 1:07:40 AM  GET  /imgs/repeat.svg
+9/16/2025, 1:07:40 AM  GET  /public//songs/bolly/
+9/16/2025, 1:07:40 AM  GET  /imgs/music.svg
+9/16/2025, 1:07:40 AM  GET  /public/songs/
+9/16/2025, 1:07:40 AM  GET  /public/songs/bolly/info.json
+9/16/2025, 1:07:40 AM  GET  /public/songs/mamaMAMI/info.json
+9/16/2025, 1:07:40 AM  GET  /public/songs/bolly/cover.png
+9/16/2025, 1:07:40 AM  GET  /public/songs/mamaMAMI/cover.png
+9/16/2025, 1:07:40 AM  GET  /public/songs/Rapchik/info.json
+9/16/2025, 1:07:40 AM  GET  /public/songs/te/info.json
+9/16/2025, 1:07:40 AM  GET  /public//songs/bolly/aa%20toh%20sahi%20-%20Neha%20Kakkar.mp3
+9/16/2025, 1:07:40 AM  GET  /public/songs/Rapchik/cover.png
+9/16/2025, 1:07:41 AM  GET  /public/songs/tej/info.json
+9/16/2025, 1:07:41 AM  GET  /public/songs/te/cover.png
+9/16/2025, 1:07:41 AM  GET  /public/songs/tej/cover.png
+9/16/2025, 1:07:41 AM  GET  /public/songs/Tejas0000000/info.json
+9/16/2025, 1:07:41 AM  GET  /public/songs/Tejas0000000/cover.png
+9/16/2025, 1:07:48 AM  GET  /createPlaylist
+9/16/2025, 1:07:49 AM  GET  /styles/utility.css
+9/16/2025, 1:07:49 AM  GET  /styles/createPlaylist.css
+9/16/2025, 1:07:49 AM  GET  /imgs/logo.svg
+9/16/2025, 1:07:49 AM  GET  /Scripts/createPLaylist.js
+9/16/2025, 1:07:50 AM  GET  /te
+9/16/2025, 1:07:50 AM  POST  /protected
+9/16/2025, 1:07:50 AM  GET  /Styles/style.css
+9/16/2025, 1:07:50 AM  GET  /Styles/utility.css
+9/16/2025, 1:07:50 AM  GET  /imgs/logo.svg
+9/16/2025, 1:07:50 AM  GET  /imgs/close.svg
+9/16/2025, 1:07:50 AM  GET  /imgs/previous.svg
+9/16/2025, 1:07:50 AM  GET  /imgs/suffle.svg
+9/16/2025, 1:07:50 AM  GET  /imgs/next.svg
+9/16/2025, 1:07:50 AM  GET  /imgs/vol.svg
+9/16/2025, 1:07:50 AM  GET  /imgs/repeat.svg
+9/16/2025, 1:07:50 AM  GET  /Scripts/script.js
+9/16/2025, 1:07:50 AM  GET  /imgs/home.svg
+9/16/2025, 1:07:50 AM  GET  /imgs/search.svg
+9/16/2025, 1:07:50 AM  GET  /imgs/playlist.svg
+9/16/2025, 1:07:50 AM  GET  /imgs/ham.svg
+9/16/2025, 1:07:50 AM  GET  /imgs/play.svg
+9/16/2025, 1:07:50 AM  GET  /public//songs/bolly/
+9/16/2025, 1:07:50 AM  GET  /imgs/music.svg
+9/16/2025, 1:07:50 AM  GET  /public/songs/
+9/16/2025, 1:07:50 AM  GET  /public//songs/bolly/aa%20toh%20sahi%20-%20Neha%20Kakkar.mp3
+9/16/2025, 1:07:50 AM  GET  /public/songs/bolly/info.json
+9/16/2025, 1:07:50 AM  GET  /public/songs/bolly/cover.png
+9/16/2025, 1:07:50 AM  GET  /public/songs/mamaMAMI/info.json
+9/16/2025, 1:07:50 AM  GET  /public/songs/mamaMAMI/cover.png
+9/16/2025, 1:07:50 AM  GET  /public/songs/Rapchik/info.json
+9/16/2025, 1:07:50 AM  GET  /public/songs/Rapchik/cover.png
+9/16/2025, 1:07:50 AM  GET  /public/songs/te/info.json
+9/16/2025, 1:07:50 AM  GET  /public/songs/te/cover.png
+9/16/2025, 1:07:50 AM  GET  /public/songs/tej/info.json
+9/16/2025, 1:07:50 AM  GET  /public/songs/tej/cover.png
+9/16/2025, 1:07:50 AM  GET  /public/songs/Tejas0000000/info.json
+9/16/2025, 1:07:50 AM  GET  /public/songs/Tejas0000000/cover.png
+9/16/2025, 1:08:02 AM  GET  /public//songs/bolly/aa%20toh%20sahi%20-%20Neha%20Kakkar.mp3
+9/16/2025, 1:08:02 AM  GET  /login.html
+9/16/2025, 1:08:02 AM  GET  /styles/login.css
+9/16/2025, 1:08:02 AM  GET  /styles/utility.css
+9/16/2025, 1:08:02 AM  GET  /imgs/logo.svg
+9/16/2025, 1:08:02 AM  GET  /Scripts/login.js
+9/16/2025, 1:08:04 AM  GET  /protected
+9/16/2025, 1:08:05 AM  GET  /protected
+9/16/2025, 1:08:06 AM  GET  /protected
+9/16/2025, 1:08:06 AM  GET  /protected
+9/16/2025, 1:08:06 AM  GET  /protected
+9/16/2025, 1:08:06 AM  GET  /protected
+9/16/2025, 1:08:41 AM Connected to database
+9/16/2025, 1:08:45 AM Connected to database
+9/16/2025, 1:08:46 AM Connected to database
+9/16/2025, 1:08:47 AM  GET  /protected
+9/16/2025, 1:08:48 AM  GET  /protected
+9/16/2025, 1:08:49 AM  GET  /login.html
+9/16/2025, 1:08:49 AM  GET  /styles/login.css
+9/16/2025, 1:08:49 AM  GET  /styles/utility.css
+9/16/2025, 1:08:49 AM  GET  /imgs/logo.svg
+9/16/2025, 1:08:49 AM  GET  /Scripts/login.js
+9/16/2025, 1:08:49 AM  GET  /
+9/16/2025, 1:08:50 AM  GET  /Styles/utility.css
+9/16/2025, 1:08:50 AM  GET  /imgs/close.svg
+9/16/2025, 1:08:50 AM  GET  /styles/style.css
+9/16/2025, 1:08:50 AM  GET  /imgs/logo.svg
+9/16/2025, 1:08:50 AM  GET  /imgs/previous.svg
+9/16/2025, 1:08:50 AM  GET  /imgs/next.svg
+9/16/2025, 1:08:50 AM  GET  /imgs/vol.svg
+9/16/2025, 1:08:50 AM  GET  /imgs/ham.svg
+9/16/2025, 1:08:50 AM  GET  /imgs/home.svg
+9/16/2025, 1:08:50 AM  GET  /imgs/search.svg
+9/16/2025, 1:08:50 AM  GET  /imgs/playlist.svg
+9/16/2025, 1:08:50 AM  GET  /imgs/play.svg
+9/16/2025, 1:10:31 AM  GET  /login
+9/16/2025, 1:10:31 AM  GET  /styles/login.css
+9/16/2025, 1:10:31 AM  GET  /styles/utility.css
+9/16/2025, 1:10:31 AM  GET  /imgs/logo.svg
+9/16/2025, 1:10:31 AM  GET  /Scripts/login.js
+9/16/2025, 1:10:37 AM  POST  /login
+9/16/2025, 1:10:39 AM  GET  /te
+9/16/2025, 1:10:39 AM  GET  /Styles/style.css
+9/16/2025, 1:10:39 AM  GET  /Styles/utility.css
+9/16/2025, 1:10:39 AM  GET  /imgs/close.svg
+9/16/2025, 1:10:39 AM  GET  /imgs/logo.svg
+9/16/2025, 1:10:39 AM  GET  /imgs/home.svg
+9/16/2025, 1:10:39 AM  GET  /imgs/search.svg
+9/16/2025, 1:10:39 AM  GET  /imgs/playlist.svg
+9/16/2025, 1:10:39 AM  GET  /Scripts/script.js
+9/16/2025, 1:10:39 AM  GET  /imgs/ham.svg
+9/16/2025, 1:10:39 AM  GET  /imgs/previous.svg
+9/16/2025, 1:10:39 AM  GET  /imgs/play.svg
+9/16/2025, 1:10:39 AM  GET  /imgs/next.svg
+9/16/2025, 1:10:39 AM  GET  /imgs/vol.svg
+9/16/2025, 1:10:39 AM  GET  /imgs/suffle.svg
+9/16/2025, 1:10:39 AM  GET  /imgs/repeat.svg
+9/16/2025, 1:10:39 AM  GET  /public//songs/bolly/
+9/16/2025, 1:10:39 AM  GET  /imgs/music.svg
+9/16/2025, 1:10:39 AM  GET  /public/songs/
+9/16/2025, 1:10:39 AM  GET  /public//songs/bolly/aa%20toh%20sahi%20-%20Neha%20Kakkar.mp3
+9/16/2025, 1:10:39 AM  GET  /public/songs/bolly/info.json
+9/16/2025, 1:10:39 AM  GET  /public/songs/bolly/cover.png
+9/16/2025, 1:10:39 AM  GET  /public/songs/mamaMAMI/info.json
+9/16/2025, 1:10:39 AM  GET  /public/songs/mamaMAMI/cover.png
+9/16/2025, 1:10:39 AM  GET  /public/songs/Rapchik/info.json
+9/16/2025, 1:10:39 AM  GET  /public/songs/te/info.json
+9/16/2025, 1:10:39 AM  GET  /public/songs/Rapchik/cover.png
+9/16/2025, 1:10:39 AM  GET  /public/songs/te/cover.png
+9/16/2025, 1:10:39 AM  GET  /public/songs/tej/info.json
+9/16/2025, 1:10:39 AM  GET  /public/songs/tej/cover.png
+9/16/2025, 1:10:39 AM  GET  /public/songs/Tejas0000000/info.json
+9/16/2025, 1:10:39 AM  GET  /public/songs/Tejas0000000/cover.png
+9/16/2025, 1:11:20 AM  GET  /createPlaylist
+9/16/2025, 1:11:20 AM  GET  /styles/utility.css
+9/16/2025, 1:11:20 AM  GET  /styles/createPlaylist.css
+9/16/2025, 1:11:20 AM  GET  /imgs/logo.svg
+9/16/2025, 1:11:20 AM  GET  /Scripts/createPLaylist.js
+9/16/2025, 1:11:25 AM  OPTIONS  /protected
+9/16/2025, 1:11:25 AM  POST  /protected
+9/16/2025, 1:11:29 AM  GET  /styles/utility.css
+9/16/2025, 1:11:29 AM  GET  /styles/createPlaylist.css
+9/16/2025, 1:11:29 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 1:12:00 AM Connected to database
+9/16/2025, 1:12:02 AM Connected to database
+9/16/2025, 1:12:03 AM Connected to database
+9/16/2025, 1:12:10 AM Connected to database
+9/16/2025, 1:12:16 AM Connected to database
+9/16/2025, 1:12:18 AM Connected to database
+9/16/2025, 1:12:20 AM Connected to database
+9/16/2025, 1:12:22 AM Connected to database
+9/16/2025, 1:12:28 AM Connected to database
+9/16/2025, 1:12:30 AM Connected to database
+9/16/2025, 1:12:37 AM Connected to database
+9/16/2025, 1:12:41 AM Connected to database
+9/16/2025, 1:12:46 AM  GET  /createPlaylist
+9/16/2025, 1:12:46 AM  GET  /styles/utility.css
+9/16/2025, 1:12:46 AM  GET  /styles/createPlaylist.css
+9/16/2025, 1:12:46 AM  GET  /imgs/logo.svg
+9/16/2025, 1:12:46 AM  GET  /Scripts/createPLaylist.js
+9/16/2025, 1:12:46 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 1:12:49 AM  OPTIONS  /protected
+9/16/2025, 1:12:49 AM  POST  /protected
+9/16/2025, 1:13:20 AM Connected to database
+9/16/2025, 1:13:22 AM Connected to database
+9/16/2025, 1:13:24 AM Connected to database
+9/16/2025, 1:13:27 AM Connected to database
+9/16/2025, 1:13:31 AM Connected to database
+9/16/2025, 1:13:32 AM Connected to database
+9/16/2025, 1:13:39 AM Connected to database
+9/16/2025, 1:13:42 AM Connected to database
+9/16/2025, 1:13:44 AM Connected to database
+9/16/2025, 1:13:46 AM Connected to database
+9/16/2025, 1:13:47 AM Connected to database
+9/16/2025, 1:13:54 AM Connected to database
+9/16/2025, 1:13:59 AM Connected to database
+9/16/2025, 1:14:02 AM Connected to database
+9/16/2025, 1:14:04 AM Connected to database
+9/16/2025, 1:14:06 AM Connected to database
+9/16/2025, 1:14:08 AM Connected to database
+9/16/2025, 1:14:21 AM Connected to database
+9/16/2025, 1:14:22 AM Connected to database
+9/16/2025, 1:14:24 AM Connected to database
+9/16/2025, 1:14:31 AM Connected to database
+9/16/2025, 1:14:33 AM Connected to database
+9/16/2025, 1:14:53 AM Connected to database
+9/16/2025, 1:15:02 AM Connected to database
+9/16/2025, 1:15:09 AM Connected to database
+9/16/2025, 1:15:11 AM Connected to database
+9/16/2025, 1:15:16 AM Connected to database
+9/16/2025, 1:15:18 AM Connected to database
+9/16/2025, 1:15:38 AM Connected to database
+9/16/2025, 1:15:41 AM Connected to database
+9/16/2025, 1:15:47 AM Connected to database
+9/16/2025, 1:15:52 AM Connected to database
+9/16/2025, 1:15:57 AM Connected to database
+9/16/2025, 1:16:16 AM Connected to database
+9/16/2025, 1:16:40 AM Connected to database
+9/16/2025, 1:16:42 AM Connected to database
+9/16/2025, 1:18:23 AM Connected to database
+9/16/2025, 1:18:27 AM Connected to database
+9/16/2025, 1:18:34 AM Connected to database
+9/16/2025, 1:18:38 AM Connected to database
+9/16/2025, 1:18:40 AM Connected to database
+9/16/2025, 1:18:42 AM Connected to database
+9/16/2025, 1:18:44 AM Connected to database
+9/16/2025, 1:18:47 AM Connected to database
+9/16/2025, 1:18:48 AM Connected to database
+9/16/2025, 1:18:52 AM Connected to database
+9/16/2025, 1:18:57 AM Connected to database
+9/16/2025, 1:19:04 AM  GET  /createPlaylist
+9/16/2025, 1:19:04 AM  GET  /styles/utility.css
+9/16/2025, 1:19:04 AM  GET  /styles/createPlaylist.css
+9/16/2025, 1:19:04 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 1:19:04 AM  GET  /imgs/logo.svg
+9/16/2025, 1:19:04 AM  GET  /Scripts/createPLaylist.js
+9/16/2025, 1:19:34 AM  OPTIONS  /protected
+9/16/2025, 1:19:34 AM  POST  /protected
+9/16/2025, 1:21:13 AM  GET  /te
+9/16/2025, 1:21:13 AM  OPTIONS  /protected
+9/16/2025, 1:21:13 AM  GET  /Styles/style.css
+9/16/2025, 1:21:13 AM  GET  /Styles/utility.css
+9/16/2025, 1:21:13 AM  GET  /imgs/close.svg
+9/16/2025, 1:21:13 AM  GET  /imgs/home.svg
+9/16/2025, 1:21:13 AM  GET  /imgs/logo.svg
+9/16/2025, 1:21:13 AM  GET  /imgs/search.svg
+9/16/2025, 1:21:13 AM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 1:21:13 AM  GET  /Scripts/script.js
+9/16/2025, 1:21:13 AM  GET  /imgs/playlist.svg
+9/16/2025, 1:21:13 AM  GET  /imgs/ham.svg
+9/16/2025, 1:21:13 AM  GET  /imgs/previous.svg
+9/16/2025, 1:21:13 AM  GET  /imgs/play.svg
+9/16/2025, 1:21:13 AM  GET  /imgs/next.svg
+9/16/2025, 1:21:13 AM  GET  /imgs/vol.svg
+9/16/2025, 1:21:13 AM  GET  /imgs/suffle.svg
+9/16/2025, 1:21:13 AM  GET  /imgs/repeat.svg
+9/16/2025, 1:21:13 AM  GET  /public//songs/bolly/
+9/16/2025, 1:21:13 AM  GET  /imgs/music.svg
+9/16/2025, 1:21:13 AM  GET  /public/songs/
+9/16/2025, 1:21:13 AM  GET  /public//songs/bolly/aa%20toh%20sahi%20-%20Neha%20Kakkar.mp3
+9/16/2025, 1:21:13 AM  GET  /public/songs/bolly/info.json
+9/16/2025, 1:21:13 AM  GET  /public/songs/mamaMAMI/info.json
+9/16/2025, 1:21:13 AM  GET  /public/songs/bolly/cover.png
+9/16/2025, 1:21:13 AM  GET  /public/songs/Rapchik/info.json
+9/16/2025, 1:21:13 AM  GET  /public/songs/mamaMAMI/cover.png
+9/16/2025, 1:21:13 AM  GET  /public/songs/te/info.json
+9/16/2025, 1:21:13 AM  GET  /public/songs/Rapchik/cover.png
+9/16/2025, 1:21:13 AM  GET  /public/songs/tej/info.json
+9/16/2025, 1:21:13 AM  GET  /public/songs/te/cover.png
+9/16/2025, 1:21:13 AM  GET  /public/songs/Tejas0000000/info.json
+9/16/2025, 1:21:13 AM  GET  /public/songs/tej/cover.png
+9/16/2025, 1:21:13 AM  GET  /public/songs/Tejas0000000/cover.png
+9/16/2025, 1:21:14 AM  GET  /imgs/favicon.ico
+9/16/2025, 1:22:20 AM Connected to database
+9/16/2025, 1:22:27 AM Connected to database
+9/16/2025, 1:22:33 AM Connected to database
+9/16/2025, 1:22:42 AM Connected to database
+9/16/2025, 1:22:48 AM  GET  /imgs/pause.svg
+9/16/2025, 1:22:48 AM  GET  /public//songs/bolly/Saturday%20-%20Akriti%20Kakkar.mp3
+9/16/2025, 1:22:59 AM  GET  /imgs/suffleon.svg
+9/16/2025, 1:23:05 AM  GET  /public//songs/bolly/Saturday%20-%20Akriti%20Kakkar.mp3
+9/16/2025, 1:23:10 AM  GET  /public//songs/bolly/lift%20Band%20-%20Anu%20Malik.mp3
+9/16/2025, 1:23:16 AM  GET  /te
+9/16/2025, 1:23:16 AM  GET  /imgs/close.svg
+9/16/2025, 1:23:16 AM  GET  /Styles/style.css
+9/16/2025, 1:23:16 AM  GET  /Styles/utility.css
+9/16/2025, 1:23:16 AM  GET  /Scripts/script.js
+9/16/2025, 1:23:16 AM  GET  /imgs/logo.svg
+9/16/2025, 1:23:16 AM  GET  /imgs/home.svg
+9/16/2025, 1:23:16 AM  GET  /imgs/search.svg
+9/16/2025, 1:23:16 AM  GET  /imgs/playlist.svg
+9/16/2025, 1:23:16 AM  GET  /imgs/ham.svg
+9/16/2025, 1:23:16 AM  GET  /imgs/previous.svg
+9/16/2025, 1:23:16 AM  GET  /imgs/play.svg
+9/16/2025, 1:23:16 AM  GET  /imgs/vol.svg
+9/16/2025, 1:23:16 AM  GET  /imgs/next.svg
+9/16/2025, 1:23:16 AM  GET  /imgs/suffle.svg
+9/16/2025, 1:23:16 AM  GET  /imgs/repeat.svg
+9/16/2025, 1:23:16 AM  GET  /public//songs/bolly/
+9/16/2025, 1:23:16 AM  GET  /imgs/favicon.ico
+9/16/2025, 1:23:16 AM  GET  /imgs/music.svg
+9/16/2025, 1:23:16 AM  GET  /public/songs/
+9/16/2025, 1:23:16 AM  GET  /public/songs/bolly/info.json
+9/16/2025, 1:23:16 AM  GET  /public/songs/Rapchik/info.json
+9/16/2025, 1:23:16 AM  GET  /public/songs/bolly/cover.png
+9/16/2025, 1:23:17 AM  GET  /public/songs/Rapchik/cover.png
+9/16/2025, 1:23:17 AM  GET  /public/songs/tej/info.json
+9/16/2025, 1:23:17 AM  GET  /public//songs/bolly/aa%20toh%20sahi%20-%20Neha%20Kakkar.mp3
+9/16/2025, 1:23:17 AM  GET  /public/songs/tej/cover.png
+9/16/2025, 1:23:21 AM  GET  /public/songs/tej/
+9/16/2025, 1:23:25 AM  GET  /imgs/pause.svg
+9/16/2025, 1:23:25 AM  GET  /public/songs/tej/Party%20On%20my%20Mind%20-Yoyo%20honey%20singh.mp3
+9/16/2025, 2:09:31 AM Connected to database
+9/16/2025, 2:09:41 AM Connected to database
+9/16/2025, 4:37:26 PM Connected to database
+9/16/2025, 4:37:28 PM  GET  /createPlaylist
+9/16/2025, 4:37:28 PM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 4:37:28 PM  GET  /Scripts/createPLaylist.js
+9/16/2025, 4:37:28 PM  GET  /styles/utility.css
+9/16/2025, 4:37:28 PM  GET  /styles/createPlaylist.css
+9/16/2025, 4:37:28 PM  GET  /imgs/logo.svg
+9/16/2025, 4:41:08 PM  GET  /styles/utility.css
+9/16/2025, 4:41:08 PM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 4:43:18 PM  GET  /createPlaylist
+9/16/2025, 4:43:18 PM  GET  /styles/utility.css
+9/16/2025, 4:43:18 PM  GET  /styles/createPlaylist.css
+9/16/2025, 4:43:18 PM  GET  /imgs/logo.svg
+9/16/2025, 4:43:18 PM  GET  /Scripts/createPLaylist.js
+9/16/2025, 4:43:18 PM  GET  /.well-known/appspecific/com.chrome.devtools.json
+9/16/2025, 4:59:24 PM Connected to database
+9/16/2025, 5:02:36 PM Connected to database
