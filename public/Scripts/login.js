@@ -24,6 +24,9 @@ document.querySelector("#logindata").addEventListener("click", async() => {
             alert("Logged In Successfully");
             window.location.href = "/te";
         }
+        else{
+            alert("Bad Authentication Check username and password \nIf you dont have account please sign up")
+        }
     }
 });
 homee1.addEventListener("click", async () => {
