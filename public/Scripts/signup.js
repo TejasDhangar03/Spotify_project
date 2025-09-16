@@ -12,7 +12,7 @@ document.getElementById("signupdata").addEventListener("click",async () => {
         else{
             // if (confirm("Are you sure you want to sign up?")) {
             // localStorage.setItem(document.getElementById("username").value, document.getElementById("password").value);   
-            let response=await fetch("http://192.168.1.36:3000/signup",{
+            let response=await fetch("/signup",{
                 method:"POST",
                 headers:{
                     "Content-Type":"application/json"

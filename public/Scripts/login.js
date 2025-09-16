@@ -6,7 +6,7 @@ document.querySelector("#logindata").addEventListener("click", async() => {
     }
     else {
         console.log("Authenticating")
-        let response=await fetch("http://192.168.1.36:3000/login",{
+        let response=await fetch("/login",{
             method:"POST",
             headers:{   
                 "Content-Type":"application/json"

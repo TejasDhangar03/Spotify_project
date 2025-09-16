@@ -18,7 +18,7 @@ document.getElementById("playlist").addEventListener("submit", async (e) => {
 
         const data = new FormData(e.target)
 
-        const res = await fetch("http://192.168.1.36:3000/protected", {
+        const res = await fetch("/protected", {
             method: "POST",
             headers: {
                 "authorization": "Bearer " + localStorage.getItem('token')
