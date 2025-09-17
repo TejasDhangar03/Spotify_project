@@ -293,9 +293,13 @@ async function main() {
         }
     });
 
-    logoutt.addEventListener("click", () => {
+    logoutt.addEventListener("click", async () => {
         if (confirm("Are you sure you want to log out?")) {
-            window.location.href = "login.html";
+            const res = await fetch("/logout")
+            if (res.status == 200) {
+                alert("Logged out Succesfully!!!!")
+                window.location.href = "/login"
+            }
         }
     });
 

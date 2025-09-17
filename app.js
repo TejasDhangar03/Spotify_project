@@ -6,6 +6,7 @@ import dotenv from 'dotenv';
 import jwt1 from 'jsonwebtoken';
 import multer from "multer"
 import cors from "cors";
+import cookieParser from 'cookie-parser';
 
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
@@ -48,26 +49,29 @@ app.use(logs);
 
 app.use(bodyParser.json());
 app.use(express.json());
+app.use(cookieParser())
 app.use(cors());
 
 function auth(req, res, next) {
-    const token = req.headers['authorization'];
+    const token = req.cookies.token;
     if (!token) {
         return res.status(401).json({ message: "No token provided" });
     }
     try {
-        console.log("working");
-        const dec = jwt1.verify(token.split(" ")[1], JWT_SECRET);
+        console.log(token);
 
-        if (dec == null) {
+        const token1 = jwt1.verify(token, JWT_SECRET);
+
+        if (token1 == null) {
             return res.status(401).json({ message: "Invalid token api" });
         }
         else {
-            req.user = dec;
+            req.user = token1;
             console.log(req.user);
             next();
         }
     } catch (err) {
+        console.log(err)
         return res.status(401).json({ message: "Invalid token error" });
 
     }
@@ -75,7 +79,7 @@ function auth(req, res, next) {
 
 app.use(express.static('public'));
 app.set('view engine', 'ejs')
-app.use("/public", express.static(path.join(__dirname + "/song_db")));
+app.use("/public", auth, express.static(path.join(__dirname + "/song_db")));
 app.use("/public", serveIndex(path.join(__dirname + "/song_db"), { "icons": true }));
 
 
@@ -86,7 +90,14 @@ app.get("/", (req, res) => {
 app.use("/login", routers)
 app.use("/signup", signup)
 
-app.get("/te", (req, res) => {
+app.get("/logout", auth, (req, res) => {
+    res.clearCookie("token"); // cookie name must match what you set
+    res.json({ message: "Logged out successfully" });
+});
+
+app.get("/te", auth, (req, res) => {
+    console.log(req.user.username)
+    console.log("worje")
     res.sendFile(path.join(__dirname, "/public/index2.html"));
 });
 
@@ -96,12 +107,12 @@ app.post("/protected", auth, upload.fields([{ name: "CoverPage" }, { name: "Song
     const dec = (req.body.dec)
     console.log(dec)
     if (playlistCreate(name, dec) == 0)
-        res.status(400).json({ message: "PlayLIst Exists" })
+        res.status(400).json({ message: "PlayList Exists" })
 
     res.status(200).json({ data: req.user, message: "This is protected data." });
 });
 
-app.get("/createPlaylist", (req, res) => {
+app.get("/createPlaylist", auth, (req, res) => {
     res.status(201).sendFile(path.join(__dirname, "public", "createPlaylist.html"));
 })
 

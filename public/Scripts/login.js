@@ -17,13 +17,14 @@ document.querySelector("#logindata").addEventListener("click", async () => {
             body: JSON.stringify({
                 username: username,
                 password: password
-            })
+            }),
+            credentials: "include" //to set cookie from server
         })
 
         let data = await response.json();
 
         if (response.status === 200) {
-            localStorage.setItem("token", data.token);
+            console.log()
 
             console.log("Authenticated successfully + " + data.token);
             alert("Logged In Successfully");

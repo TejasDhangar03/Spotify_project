@@ -32,7 +32,14 @@ router.post("/", async (req, res) => {
         if (isMatch) {
             const utoken = genToken.genToken(user);
             console.log(utoken);
-            return res.status(200).json({ message: "Login successful", token: utoken });
+
+            return res.status(200).cookie("token", utoken, {
+                httpOnly: true,
+                secure: true,     // only true in production
+                sameSite: "none" // "none" for cross-site prod, "lax" for local
+            }).json({ message: "Login successful", token: utoken });
+
+            // return res.status(200).json({ message: "Login successful", token: utoken });
         }
         else {
             return res.status(401).json({ message: "Invalid credentials" });

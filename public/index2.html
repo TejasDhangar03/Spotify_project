@@ -38,6 +38,11 @@
             width: 75vw;
         }
 
+        .first {
+            position: absolute;
+            top: 0
+        }
+
         .first .container .left .home .search-home ul li {
             display: flex;
             gap: 15px;
@@ -431,7 +436,7 @@
                 flex-wrap: wrap;
                 align-items: center;
                 justify-content: center;
-                max-height: 41vh;
+                max-height: 48vh;
 
             }
 
@@ -477,7 +482,7 @@
 
             .first .right .spotifyPlaylist .playbar {
                 width: calc(100vw - 45px);
-                min-height: 150px;
+                min-height: 20vh;
 
             }
 
@@ -496,13 +501,11 @@
 
             .first .right .spotifyPlaylist .cardContainer .card {
                 width: 60%;
-
-
-
             }
 
-            .first .right {
-                position: relative;
+            .right {
+                width: 100vw;
+                max-height: 66vh;
             }
 
             .first .right .spotifyPlaylist .playbar .abvseek .timeAndVolume {
