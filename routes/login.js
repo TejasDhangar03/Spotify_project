@@ -35,8 +35,8 @@ router.post("/", async (req, res) => {
 
             return res.status(200).cookie("token", utoken, {
                 httpOnly: true,
-                secure: false,     // only true in production
-                sameSite: "lax" // "none" for cross-site production, "lax" for local
+                secure: true,     // only true in production
+                sameSite: "none" // "none" for cross-site production, "lax" for local
             }).json({ message: "Login successful", token: utoken });
 
             // return res.status(200).json({ message: "Login successful", token: utoken });
