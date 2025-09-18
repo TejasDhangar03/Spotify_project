@@ -54,6 +54,13 @@ The application is deployed on **Render** for production use.
 
 ---
 
+## 🛠️ Testing
+
+* Tested on **Postman**.
+* POSTMAN link **https://tejas-dhangar-s-team.postman.co/workspace/Team-Workspace~8c11711c-0e3d-459e-8661-7d53eb65984b/collection/47851636-3e08e5e1-b8e9-45f5-9604-c9998f8f6a23?action=share&creator=47851636**.
+
+---
+
 ## 🌐 Deployment
 
 * Deployed on **Render**.
