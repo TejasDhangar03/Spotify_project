@@ -57,7 +57,7 @@ The application is deployed on **Render** for production use.
 ## 🌐 Deployment
 
 * Deployed on **Render**.
-* Deployed link **spotify-project-7f8n.onrender.com**.
+* Deployed link **[Visit Project](spotify-project-7f8n.onrender.com "Spotify Clone")**.
 * Update **CORS settings** and **cookie security** (`sameSite none`, `secure false`) for LOCAL in routes/login.js.
 
 ---
