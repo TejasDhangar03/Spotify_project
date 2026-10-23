@@ -258,6 +258,7 @@ body {
     padding: 15px;
     cursor: pointer;
     transition: all 0.9s;
+    height: 310px;
 }
 
 .first .right .spotifyPlaylist .cardContainer .card:hover {
